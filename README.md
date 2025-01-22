@@ -5,13 +5,16 @@
 - Para Ejecutar un sistema debes poner
 
 - '''npm install react'''
-- 
 
-  git log --author="user_name"
-  git log -p
-  git log --author="user_name"
-  git log --since=1.month.ago --until=1.day.ago
-  git log --pretty="format:%h %s"
+ ''' git log --author="user_name"'''
+  s
+ ''' git log -p '''
+  
+''' git log --author="user_name"'''
+  
+ '''git log --since=1.month.ago --until=1.day.ago'''
+  
+ '''git log --pretty="format:%h %s"'''
 
   
 
